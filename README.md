@@ -48,6 +48,16 @@
     Обзор мемоизации в React
 ### 6. [React portal](https://github.com/Alexyei/react-portal-modal)
     Создание порталов в React
+### 7. [react lifecycle](https://github.com/Alexyei/react-lifecycle)
+    Обзор методов жизненного цикла в React
+### 8. [react-form-validation](https://github.com/Alexyei/react-form-validation)
+    Сравнение Formik и react-hook-form (почти все примеры в Formik)
+### 9. [react weather](https://github.com/Alexyei/react-weather-app)
+    Приложение прогноза погоды
+### 10. [JS animations](https://github.com/Alexyei/JS-animations)
+    Игры и canvas-анимации
+### 11. [multer](https://github.com/Alexyei/multer)
+    Пример работы с библиотеккой
     
 ## Институт
 ### 1. [Рекомендательные системы](https://github.com/Alexyei/recomended_systems)
@@ -56,8 +66,9 @@
     Программирование модулей ядра на си
 ### 3. [kotlin labs](https://github.com/Alexyei/kotlin-labs)
     Небольшие примеры на котлине
-### 4. [react lifecycle](https://github.com/Alexyei/react-lifecycle)
-    Обзор методов жизненного цикла в React
+### 4. [kotlin-tipping](https://github.com/Alexyei/kotlin-tipping-app)
+    ПРостое приложение расчёта стоимостии чаевых
+
 
 
 
