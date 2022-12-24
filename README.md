@@ -1,38 +1,12 @@
 ## Обзор всех репозиториев
 
 ## Проекты:
-### 1. Приложение тенисного судьи (mobile):  
-   #### [Frontend (android kotlin)](https://github.com/Alexyei/kotlin-android-frontend-tennis)  
-   #### [Backend (ktor)](https://github.com/Alexyei/kotlin-android-backend-tennis)  
-   Технологии:
-   - Kotlin
-   - Ktor
-   - JWT auth
-   - MongoDB
+### 1. React-мессенджер (web)
+   #### [Frontend (React) и Backend(Express)](https://github.com/Alexyei/socketio-test)
+   React, Redux, axios, Express, MongoDB, mongoose, TypeScript, Redis, socket.io. Защита сокетов с помощью сессии. Комнаты, приватные чаты, история сообщений, список пользователей, статус онлайн, настройка комнат, объединение rest api и websockets в одном проекте, совместные сессии. Кастомные компоненты для валидации форм. Приватные маршруты на клиенте.
+   ### [Видео](https://youtu.be/VgIBoVRflRA)
    
-   Фичи:  
-   - auto-login
-   - кастомноый список матчей
-   
-   ### [Видео](https://youtu.be/FmspjB1r6SA)
-   
-### 2. React-блог (web)
-   #### [Frontend (react)](https://github.com/Alexyei/react-frontend-blog-app)  
-   #### [Backend (express)](https://github.com/Alexyei/react-backend-blog-app)  
-   Технологии:
-   - TypeScript
-   - MUI
-   - Skeleton
-   - JWT Auth
-   - MongoDB
-   - Multer
-   
-   Фичи:  
-   - Загрузка изображений через multer (предусмотренно удаление временных файлов, сохраняется только последний загруженный файл)
-   - Вложенные комментарии, оптимизация отображения (при прокрутку вниз или вверх удаляются коммментарии которые не видны пользователю, добавляются которые скоро станут видны, таким образом дерево элемнетов сотсоит только из видимых комментариев, а не из всех)
-   ### [Видео]()
-
-### 3. Java-pizza (desktop)
+### 2. Java-pizza (desktop)
    #### [Frontend (JavaFx)](https://github.com/Alexyei/demo-design)  
    #### [Backend (Spring)](https://github.com/Alexyei/pizza-backend)  
    Технологии:
@@ -52,12 +26,37 @@
    https://github.com/Alexyei/spring-test-master-img
    https://github.com/Alexyei/crud-java
    https://github.com/Alexyei/spring-test-master
+
+### 3. React-блог (web)
+   #### [Frontend (react)](https://github.com/Alexyei/react-frontend-blog-app)  
+   #### [Backend (express)](https://github.com/Alexyei/react-backend-blog-app)  
+   Технологии:
+   - TypeScript
+   - MUI
+   - Skeleton
+   - JWT Auth
+   - MongoDB
+   - Multer
    
-### 4. React-мессенджер (web)
-   #### [Frontend (React) и Backend(Express)](https://github.com/Alexyei/socketio-test)
-   React, Redux, axios, Express, MongoDB, mongoose, TypeScript, Redis, socket.io. Защита сокетов с помощью сессии. Комнаты, приватные чаты, история сообщений, список пользователей, статус онлайн, настройка комнат, объединение rest api и websockets в одном проекте, совместные сессии. Кастомные компоненты для валидации форм. Приватные маршруты на клиенте.
-   ### [Видео](https://youtu.be/VgIBoVRflRA)
+   Загрузка изображений через multer (предусмотренно удаление временных файлов, сохраняется только последний загруженный файл)
+Вложенные комментарии, оптимизация отображения (при прокрутку вниз или вверх удаляются комментарии которые не видны пользователю, добавляются которые скоро станут видны, таким образом дерево элементов состоит только из видимых комментариев, а не из всех)
+   ### [Видео](https://youtu.be/NxsIKmgC8mo)
    
+### 4. Приложение тенисного судьи (mobile):  
+   #### [Frontend (android kotlin)](https://github.com/Alexyei/kotlin-android-frontend-tennis)  
+   #### [Backend (ktor)](https://github.com/Alexyei/kotlin-android-backend-tennis)  
+   Технологии:
+   - Kotlin
+   - Ktor
+   - JWT auth
+   - MongoDB
+   
+   Фичи:  
+   - auto-login
+   - кастомноый список матчей
+   
+   ### [Видео](https://youtu.be/FmspjB1r6SA)
+
 ## Незавершённые проекты:
 ### 1. [Drang-and-drop texteditor](https://github.com/Alexyei/text-editor)
     Связанные репозитории:
