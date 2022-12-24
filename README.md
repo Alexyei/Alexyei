@@ -5,8 +5,16 @@
    #### [Frontend (React) и Backend(Express)](https://github.com/Alexyei/socketio-test)
    React, Redux, axios, Express, MongoDB, mongoose, TypeScript, Redis, socket.io. Защита сокетов с помощью сессии. Комнаты, приватные чаты, история сообщений, список пользователей, статус онлайн, настройка комнат, объединение rest api и websockets в одном проекте, совместные сессии. Кастомные компоненты для валидации форм. Приватные маршруты на клиенте.
    ### [Видео](https://youtu.be/VgIBoVRflRA)
-   
-### 2. Java-pizza (desktop)
+
+### 2. Write-kanji (web)
+   #### [Frontend (Vue)](https://github.com/Alexyei/vue-tailwind)  
+   #### [Backend (Laravel)](https://github.com/Alexyei/kanji-api)  
+   Laravel 8 (api), Vue 3 (vue-cli), vuex, vue-router, tailwind, размещение на VPS (git pull, настройка UNIX и NGINX), создание vue-компонентов, асинхронные запросы к api, универсальные события указателя для рисования, парсинг слов из pdf файлов, seaders, работа с библиотекой animCJK. Полностью самостоятельно реализовал, дизайн и функционал приложения.
+   ### [Гифки](https://github.com/Alexyei/vue-tailwind)
+   Связанные репозитории (заготовки, примеры):
+   https://github.com/Alexyei/kanji-vue-spa
+
+### 3. Java-pizza (desktop)
    #### [Frontend (JavaFx)](https://github.com/Alexyei/demo-design)  
    #### [Backend (Spring)](https://github.com/Alexyei/pizza-backend)  
    Технологии:
@@ -27,7 +35,7 @@
    https://github.com/Alexyei/crud-java
    https://github.com/Alexyei/spring-test-master
 
-### 3. React-блог (web)
+### 4. React-блог (web)
    #### [Frontend (react)](https://github.com/Alexyei/react-frontend-blog-app)  
    #### [Backend (express)](https://github.com/Alexyei/react-backend-blog-app)  
    Технологии:
@@ -42,7 +50,7 @@
 Вложенные комментарии, оптимизация отображения (при прокрутку вниз или вверх удаляются комментарии которые не видны пользователю, добавляются которые скоро станут видны, таким образом дерево элементов состоит только из видимых комментариев, а не из всех)
    ### [Видео](https://youtu.be/NxsIKmgC8mo)
    
-### 4. Приложение тенисного судьи (mobile):  
+### 5. Приложение тенисного судьи (mobile):  
    #### [Frontend (android kotlin)](https://github.com/Alexyei/kotlin-android-frontend-tennis)  
    #### [Backend (ktor)](https://github.com/Alexyei/kotlin-android-backend-tennis)  
    Технологии:
@@ -95,6 +103,31 @@
     Библиотека express-validator для валидации форм на сервере
 ### 14. [express_testing](https://github.com/Alexyei/express_testing)
     Тестирование небольшого проекта с помощью Jest
+### 15. [full auth sseion](https://github.com/Alexyei/full-auth-session)
+    Авторизация на основе сессий (redis)
+### 16. [auth session JS](https://github.com/Alexyei/session-authorization-master)
+    Минимальный пример авторизации через сессии (redis)
+### 17. [auth JWT TS Server](https://github.com/Alexyei/jwt-authorization)
+    Пример JWT авторизации (Сервер Express)
+### 18. [auth JWT TS Client](https://github.com/Alexyei/authorization-ts)
+    Пример JWT авторизации (Клиент React)
+### 19. [auth JWT JS Client](https://github.com/Alexyei/authorization)
+    Пример JWT авторизации (Клиент React) без typescript
+### 20. [form-validation](https://github.com/Alexyei/form-validation)
+    Попытка самостоятельно написать "библиотеку" для валидации форм
+### 21. [mongodb nested comments](https://github.com/Alexyei/mongo-db-first-case-comments)
+    Сложные запросы к mongoDB для получения вложенных комментариев (express, TS)
+### 22. [react simple blog JS](https://github.com/Alexyei/test)
+    Очень простой блог на React без typescript
+### 23. [NUXT chat start example](https://github.com/Alexyei/auth-simple-chat)
+    Заготовка для чата на сокетах NUXT
+### 24. [electron](https://github.com/Alexyei/electron-tornado)
+    Пhостой пример electron
+### 25. [Vue chat](https://github.com/Alexyei/simple-chat)
+    Простой чат на Vue
+### 26. [Vue lessons](https://github.com/Alexyei/vue-lessons)
+    Примеры на Vue
+
     
 ## Институт
 ### 1. [Рекомендательные системы](https://github.com/Alexyei/recomended_systems)
@@ -105,6 +138,9 @@
     Небольшие примеры на котлине
 ### 4. [kotlin-tipping](https://github.com/Alexyei/kotlin-tipping-app)
     ПРостое приложение расчёта стоимостии чаевых
+### 5. [Python](https://github.com/Alexyei/Python)
+    Лабораторные работы Python
+    Шахматы, пятнашки, игра лоскутное одеяло, муравьиный поиск, калькулятор (обратная польская нотация)
 
 
 
