@@ -34,12 +34,8 @@
    https://github.com/Alexyei/spring-test-master-img
    https://github.com/Alexyei/crud-java
    https://github.com/Alexyei/spring-test-master
-   
-### 4. Laravel-Blog (web)
-   #### [Frontend (Laravel) и Backend(Laravel)](https://github.com/Alexyei/laravel-admin-panel-system)
-   Laravel 8, AJAX, CRON, CRUD, админ-панель breeze, tinyMCE 5 свои popup, своя система регистрации и входа (почта, токены, возможность смены почты пользователя), система жалоб на комментарии, возможность их удаления модератором, вложенные комментарии с лайками, пагинация, работа с библиотеками participles.js, owl.js., tagify.
 
-### 5. React-блог (web)
+### 4. React-блог (web)
    #### [Frontend (react)](https://github.com/Alexyei/react-frontend-blog-app)  
    #### [Backend (express)](https://github.com/Alexyei/react-backend-blog-app)  
    Технологии:
@@ -50,9 +46,15 @@
    - MongoDB
    - Multer
    
-   Загрузка изображений через multer (предусмотренно удаление временных файлов, сохраняется только последний загруженный файл)
+   Загрузка изображений через multer (предусмотрено удаление временных файлов, сохраняется только последний загруженный файл)
 Вложенные комментарии, оптимизация отображения (при прокрутку вниз или вверх удаляются комментарии которые не видны пользователю, добавляются которые скоро станут видны, таким образом дерево элементов состоит только из видимых комментариев, а не из всех)
-   ### [Видео](https://youtu.be/NxsIKmgC8mo)
+   ### [Видео](https://youtu.be/AXsB07dp7z0)
+   
+### 5. Laravel-Blog (web)
+   #### [Frontend (Laravel) и Backend(Laravel)](https://github.com/Alexyei/laravel-admin-panel-system)
+   Laravel 8, AJAX, CRON, CRUD, админ-панель breeze, tinyMCE 5 свои popup, своя система регистрации и входа (почта, токены, возможность смены почты пользователя), система жалоб на комментарии, возможность их удаления модератором, вложенные комментарии с лайками, пагинация, работа с библиотеками participles.js, owl.js., tagify.
+
+
    
 ### 6. Приложение тенисного судьи (mobile):  
    #### [Frontend (android kotlin)](https://github.com/Alexyei/kotlin-android-frontend-tennis)  
