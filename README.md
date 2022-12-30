@@ -147,6 +147,8 @@
     Примеры работ на PHP
 ### 32. [website](https://github.com/Alexyei/websites)
     Архив примеров на HTML,CSS,JS
+### 33. [aimlab bot](https://github.com/Alexyei/aimlabbot)
+    Бот для aimlab использует openCV и маску цветов.
     
 ## Институт
 ### 1. [Рекомендательные системы](https://github.com/Alexyei/recomended_systems)
