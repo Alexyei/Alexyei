@@ -149,6 +149,8 @@
     Архив примеров на HTML,CSS,JS
 ### 33. [aimlab bot](https://github.com/Alexyei/aimlabbot)
     Бот для aimlab использует openCV и маску цветов.
+### 34. [LA AA Bot](https://github.com/Alexyei/LA_AA_bot)
+    В файле test используется библиотека autohotkey для нажатия клавиш в играх. Сам бот не переписан под эту библиотеку.
     
 ## Институт
 ### 1. [Рекомендательные системы](https://github.com/Alexyei/recomended_systems)
