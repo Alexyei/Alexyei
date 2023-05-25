@@ -71,6 +71,14 @@
    
    ### [Видео](https://youtu.be/FmspjB1r6SA)
 
+### 7. Markdown-blog (NEXT 13):  
+   #### [Only frontend](https://github.com/Alexyei/md-blog-md__3)
+   Парсинг .md файлов. Реализованы кастомные markdown элементы. Стилизован с использованием стилей из @tailwindcss/typography. Подсветка строк в кодовых блоках реализована с помощью библиотеке react-syntax-highlighter. Посты хранятся отдельно от кода блога, что позволяет хранить их в открытом репозитории, а код в закрытом. Автоматически создаётся навигационное дерево по статьям блога, а также список ссылок-заголовков для каждого поста. Реализован поиск по блогу.
+   
+### 8. TradingBotRL (Python):
+   #### [Python, pytorch](https://github.com/Alexyei/TradingBotRL)
+   Курсовой проект по машинному обучению. Рассмотренны алгоритмы: Q-learning, DQN, Reinforce, Actor-Critic на примере создания торгового бота.
+
 ## Незавершённые проекты:
 ### 1. [Drang-and-drop texteditor](https://github.com/Alexyei/text-editor)
     Связанные репозитории:
@@ -151,6 +159,10 @@
     Бот для aimlab использует openCV и маску цветов.
 ### 34. [LA AA Bot](https://github.com/Alexyei/LA_AA_bot)
     В файле test используется библиотека autohotkey для нажатия клавиш в играх. Сам бот не переписан под эту библиотеку.
+### 35. [djsite](https://github.com/Alexyei/djsite)
+    Просто сайт-блог на Django. [Видео-курс](https://www.youtube.com/watch?v=FyTL1bnUx5I&list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F)
+### 36. [RL](https://github.com/Alexyei/RL)
+    Работа с алгоритмами обучения с подкреплением (Reinforcement learning, RL).
     
 ## Институт
 ### 1. [Рекомендательные системы](https://github.com/Alexyei/recomended_systems)
@@ -166,6 +178,8 @@
     Шахматы, пятнашки, игра лоскутное одеяло, муравьиный поиск, калькулятор (обратная польская нотация)
 ### 6. [Javascript](https://github.com/Alexyei/JavaScript)
     Примеры на JS
+### 7. [Прямоугольное сжатие изображения, javascript](https://github.com/Alexyei/painting_a_monochrome_images)
+    Дано монохромное изображение: матрица NxM, содержащее только нули и единицы. Определить, можно ли покрыть все единичные элементы изображения не более чем K прямоугольниками.
 
 
 
