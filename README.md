@@ -35,7 +35,35 @@
    https://github.com/Alexyei/crud-java
    https://github.com/Alexyei/spring-test-master
 
-### 4. React-блог (web)
+### 4. Веб-приложение подбора фильмов (web)
+   #### [Теория (Ким Фальк: Рекомендательные системы на практике)](https://github.com/Alexyei/notes-recomender-systems)  
+   #### [Реализация (next.js 13 и express.js)](https://github.com/Alexyei/MovieTweetingsRS)  
+   Используемые технологии:
+   - JavaScript; TypeScript
+   
+   - Next.js 13 (React)
+   - Tailwind; Shadcn/ui
+   - Swiper; Recharts; TanStack Table v8
+   
+   - Express.js
+   - PostgreSQL;Prisma;Redis
+   - Tensorflow/tfjs-node (CPU)
+   - Jest
+
+   Реализованные алгоритмы:
+     Неперсональные
+       - Самые популярные (наивысшее количество оценок)
+       - Бестселлеры
+       - Ассоциативные правила
+     Персональные
+       - Коллаборативная фильтрация по элементам
+       - Коллаборативная фильтрация по пользователям
+
+   Дипломный проект.
+   В данной работе я реализовал рекомендательную систему для подбора фильмов, а также веб-приложение применяющие её. Для создания рекомендательной системы потребуется применить высокопроизводительные вычисления. Отличительной особенность данной работы является то, что рекомендательная система, высокопроизводительная обработка данных, и веб-приложение будут написаны на одном языке программирования - на JavaScript.
+   ### [Видео](https://youtu.be/nwm02gjvPQU)
+
+### 5. React-блог (web)
    #### [Frontend (react)](https://github.com/Alexyei/react-frontend-blog-app)  
    #### [Backend (express)](https://github.com/Alexyei/react-backend-blog-app)  
    Технологии:
@@ -50,13 +78,13 @@
 Вложенные комментарии, оптимизация отображения (при прокрутку вниз или вверх удаляются комментарии которые не видны пользователю, добавляются которые скоро станут видны, таким образом дерево элементов состоит только из видимых комментариев, а не из всех)
    ### [Видео](https://youtu.be/AXsB07dp7z0)
    
-### 5. Laravel-Blog (web)
+### 6. Laravel-Blog (web)
    #### [Frontend (Laravel) и Backend(Laravel)](https://github.com/Alexyei/laravel-admin-panel-system)
    Laravel 8, AJAX, CRON, CRUD, админ-панель breeze, tinyMCE 5 свои popup, своя система регистрации и входа (почта, токены, возможность смены почты пользователя), система жалоб на комментарии, возможность их удаления модератором, вложенные комментарии с лайками, пагинация, работа с библиотеками participles.js, owl.js., tagify.
 
 
    
-### 6. Приложение тенисного судьи (mobile):  
+### 7. Приложение тенисного судьи (mobile):  
    #### [Frontend (android kotlin)](https://github.com/Alexyei/kotlin-android-frontend-tennis)  
    #### [Backend (ktor)](https://github.com/Alexyei/kotlin-android-backend-tennis)  
    Технологии:
@@ -71,11 +99,11 @@
    
    ### [Видео](https://youtu.be/FmspjB1r6SA)
 
-### 7. Markdown-blog (NEXT 13):  
+### 8. Markdown-blog (NEXT 13):  
    #### [Only frontend](https://github.com/Alexyei/md-blog-md__3)
    Парсинг .md файлов. Реализованы кастомные markdown элементы. Стилизован с использованием стилей из @tailwindcss/typography. Подсветка строк в кодовых блоках реализована с помощью библиотеке react-syntax-highlighter. Посты хранятся отдельно от кода блога, что позволяет хранить их в открытом репозитории, а код в закрытом. Автоматически создаётся навигационное дерево по статьям блога, а также список ссылок-заголовков для каждого поста. Реализован поиск по блогу.
    
-### 8. TradingBotRL (Python):
+### 9. TradingBotRL (Python):
    #### [Python, pytorch](https://github.com/Alexyei/TradingBotRL)
    Курсовой проект по машинному обучению. Рассмотренны алгоритмы: Q-learning, DQN, Reinforce, Actor-Critic на примере создания торгового бота.
 
