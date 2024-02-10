@@ -163,6 +163,8 @@
     Просто сайт-блог на Django. [Видео-курс](https://www.youtube.com/watch?v=FyTL1bnUx5I&list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F)
 ### 36. [RL](https://github.com/Alexyei/RL)
     Работа с алгоритмами обучения с подкреплением (Reinforcement learning, RL).
+### 37. [opencv и ahk](https://github.com/Alexyei/opencv_ahk_v2)
+    Базовый пример работы с бибилиотеками ahk и opencv в node.js
     
 ## Институт
 ### 1. [Рекомендательные системы](https://github.com/Alexyei/recomended_systems)
