@@ -1,12 +1,23 @@
 ## Обзор всех репозиториев
-
 ## Проекты:
-### 1. React-мессенджер (web)
+### 1. kanji-draw (web)
+   #### [Frontend (Next)](https://github.com/Alexyei/next-kana-app/)  
+   Перенос write-kanji на next.js
+   KanjiDraw - это веб-приложение для обучения и тренировки написания японских иероглифов: кандзи, катаканы и хираганы. Работа в приложении происходит по следующему алгоритму: 1. Выбор кандзи и символов каны. Кандзи разделены на группы, соответствующие уровням JLPT от N5 до N2. При желании вы можете поделиться ссылкой на выбранные символы. 2. Генерация подборки слов. На основе выбранных иероглифов и параметров тестирования, заданных пользователем, формируется список слов для тренировки. 3. Рукописный ввод слов. Пользователь вводит слова, ориентируясь на их перевод. При необходимости он может просмотреть транскрипцию слова, его посимвольное написание и прослушать произношение. 4. Распознавание введенных слов. Нейронная сеть использует современные технологии для распознавания введенных слов. 5. Отображение результатов. Пользователю демонстрируются результаты, где он может сравнить оригинальные слова и результаты распознавания, полученные компьютером. С помощью этого веб-приложения вы сможете отточить свое мастерство в написании более 1000 иероглифов, используя свыше 9000 слов.
+   ### [Сайт](https://www.kanjidraw.ru/)
+### 2. Рисование кандзи (web, YAGames)
+   #### [Frontend (React) v1](https://github.com/Alexyei/react-kana-app)  
+   #### [Frontend (React) v2](https://github.com/Alexyei/react-kana-app-v2) 
+   Перенос kanji-draw в Яндекс.Игры
+   Рисование кандзи - это веб-приложение для обучения и тренировки написания японских иероглифов: кандзи, катаканы и хираганы. С помощью этого веб-приложения вы сможете отточить свое мастерство в написании более    1000 иероглифов, используя свыше 8600 слов. Приложение помогает развивать память и внимательность.
+   Во второй версии добавлена новая механика: рисование по контуру.
+   ### [Сайт](https://yandex.ru/games/#app=405439)
+### 3. React-мессенджер (web)
    #### [Frontend (React) и Backend(Express)](https://github.com/Alexyei/socketio-test)
    React, Redux, axios, Express, MongoDB, mongoose, TypeScript, Redis, socket.io. Защита сокетов с помощью сессии. Комнаты, приватные чаты, история сообщений, список пользователей, статус онлайн, настройка комнат, объединение rest api и websockets в одном проекте, совместные сессии. Кастомные компоненты для валидации форм. Приватные маршруты на клиенте.
    ### [Видео](https://youtu.be/VgIBoVRflRA)
 
-### 2. Write-kanji (web)
+### 4. Write-kanji (web)
    #### [Frontend (Vue)](https://github.com/Alexyei/vue-tailwind)  
    #### [Backend (Laravel)](https://github.com/Alexyei/kanji-api)  
    Laravel 8 (api), Vue 3 (vue-cli), vuex, vue-router, tailwind, размещение на VPS (git pull, настройка UNIX и NGINX), создание vue-компонентов, асинхронные запросы к api, универсальные события указателя для рисования, парсинг слов из pdf файлов, seaders, работа с библиотекой animCJK. Полностью самостоятельно реализовал, дизайн и функционал приложения.
@@ -14,7 +25,7 @@
    Связанные репозитории (заготовки, примеры):
    https://github.com/Alexyei/kanji-vue-spa
 
-### 3. Java-pizza (desktop)
+### 5. Java-pizza (desktop)
    #### [Frontend (JavaFx)](https://github.com/Alexyei/demo-design)  
    #### [Backend (Spring)](https://github.com/Alexyei/pizza-backend)  
    Технологии:
@@ -36,7 +47,7 @@
    - https://github.com/Alexyei/spring-test-master
 
 
-### 4. Веб-приложение подбора фильмов (web)
+### 6. Веб-приложение подбора фильмов (web)
    #### [Теория (Ким Фальк: Рекомендательные системы на практике)](https://github.com/Alexyei/notes-recomender-systems)  
    #### [Реализация (next.js 13 и express.js)](https://github.com/Alexyei/MovieTweetingsRS)  
    Используемые технологии:
@@ -73,7 +84,7 @@
 
    ### [Видео](https://youtu.be/nwm02gjvPQU)
 
-### 5. React-блог (web)
+### 7. React-блог (web)
    #### [Frontend (react)](https://github.com/Alexyei/react-frontend-blog-app)  
    #### [Backend (express)](https://github.com/Alexyei/react-backend-blog-app)  
    Технологии:
@@ -88,13 +99,13 @@
 Вложенные комментарии, оптимизация отображения (при прокрутку вниз или вверх удаляются комментарии которые не видны пользователю, добавляются которые скоро станут видны, таким образом дерево элементов состоит только из видимых комментариев, а не из всех)
    ### [Видео](https://youtu.be/AXsB07dp7z0)
    
-### 6. Laravel-Blog (web)
+### 8. Laravel-Blog (web)
    #### [Frontend (Laravel) и Backend(Laravel)](https://github.com/Alexyei/laravel-admin-panel-system)
    Laravel 8, AJAX, CRON, CRUD, админ-панель breeze, tinyMCE 5 свои popup, своя система регистрации и входа (почта, токены, возможность смены почты пользователя), система жалоб на комментарии, возможность их удаления модератором, вложенные комментарии с лайками, пагинация, работа с библиотеками participles.js, owl.js., tagify.
 
 
    
-### 7. Приложение тенисного судьи (mobile):  
+### 9. Приложение тенисного судьи (mobile):  
    #### [Frontend (android kotlin)](https://github.com/Alexyei/kotlin-android-frontend-tennis)  
    #### [Backend (ktor)](https://github.com/Alexyei/kotlin-android-backend-tennis)  
    Технологии:
@@ -109,11 +120,11 @@
    
    ### [Видео](https://youtu.be/FmspjB1r6SA)
 
-### 8. Markdown-blog (NEXT 13):  
+### 10. Markdown-blog (NEXT 13):  
    #### [Only frontend](https://github.com/Alexyei/md-blog-md__3)
    Парсинг .md файлов. Реализованы кастомные markdown элементы. Стилизован с использованием стилей из @tailwindcss/typography. Подсветка строк в кодовых блоках реализована с помощью библиотеке react-syntax-highlighter. Посты хранятся отдельно от кода блога, что позволяет хранить их в открытом репозитории, а код в закрытом. Автоматически создаётся навигационное дерево по статьям блога, а также список ссылок-заголовков для каждого поста. Реализован поиск по блогу.
    
-### 9. TradingBotRL (Python):
+### 11. TradingBotRL (Python):
    #### [Python, pytorch](https://github.com/Alexyei/TradingBotRL)
    Курсовой проект по машинному обучению. Рассмотренны алгоритмы: Q-learning, DQN, Reinforce, Actor-Critic на примере создания торгового бота.
 
